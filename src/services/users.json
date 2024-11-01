@@ -9,8 +9,19 @@
         "username": "charlymartinsep",
         "name": "Carles Martin Sepulveda",
         "email": "carles.martin.sepulveda@estudiantat.upc.edu",
-        "password": "mySecurePassword123",  
-        "isAdmin": true   
-      }
-      
+        "password": "mySecurePassword123",
+        "isAdmin": true
+    },
+    {
+        "username": "sebas15",
+        "name": "Sebastián Pineda Sánchez",
+        "email": "sebaspineda@gmail.com",
+        "password": "789123z"
+    },
+    {
+        "username": "toni200",
+        "name": "Toni Oller",
+        "email": "tonioller@gmail.com",
+        "password": "z09214"
+    }
 ]
